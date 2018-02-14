@@ -1,0 +1,28 @@
+{
+  "name": "sequential_file_generator",
+  "version": "0.0.1",
+  "description": "Code to use with Handlebars JS to generate sequential file names",
+  "main": "sequential_file_generator.js",
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkeingraffia/sequential_html_file_generator.git"
+  },
+  "keywords": [
+    "handlebars",
+    "handlebarsjs",
+    "sequential"
+  ],
+  "author": "Burke Ingraffia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burkeingraffia/sequential_html_file_generator/issues"
+  },
+  "homepage": "https://github.com/burkeingraffia/sequential_html_file_generator#readme"
+}
